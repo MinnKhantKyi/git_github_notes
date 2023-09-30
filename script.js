@@ -93,4 +93,9 @@
             Set origin variable value by github's repo address
         
         * git remote -v -> check all variables
+
+    4. Commit all changes. Must commit before push to github repo.
+
+    5. git push origin <branch name> -> push commit to github repo
+        eg. git push origin main
 */
