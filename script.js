@@ -98,4 +98,15 @@
 
     5. git push origin <branch name> -> push commit to github repo
         eg. git push origin main
+
+
+    Delete branch from github
+    1.  Must delete branch in local git first.
+    2.  Delete on github
+        git push origin --delete <branch name>
+        
+        
+    Clone Github
+    1. git clone <link of repo>
+        eg. git clone https://github.com/MinnKhantKyi/git_github_notes.git
 */
