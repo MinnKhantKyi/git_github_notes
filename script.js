@@ -109,4 +109,8 @@
     Clone Github
     1. git clone <link of repo>
         eg. git clone https://github.com/MinnKhantKyi/git_github_notes.git
+
+    Git stash
+    git stash --include-untracked
+    git stash pop
 */
